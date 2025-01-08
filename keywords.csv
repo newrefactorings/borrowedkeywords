@@ -1,0 +1,103 @@
+Serial #,Keyword
+1,Abstraction 
+2,Change design 
+3,Code improvements
+4,Cohesion 
+5,Dead code 
+6,Design metric 
+7,Encapsulation 
+8,Fix code smell 
+9,Functionality 
+10,Less code 
+11,Modular 
+12,Organise 
+13,Pull up 
+14,Reliability 
+15,Reuse 
+16,Simplify 
+17,Understanding
+18,Access 
+19,Cleanup 
+20,Code optimization 
+21,Compatibility 
+22,Decompose 
+23,Designed code 
+24,Enhance 
+25,Fix issue 
+26,Getting code out of 
+27,Long method 
+28,Modularize 
+29,Performance 
+30,Quality 
+31,Remove dependency 
+32,Rework 
+33,Split 
+34,Unneeded 
+35,Aggregate 
+36,Code beauty 
+37,Code reformatting 
+38,Complexity 
+39,Decoupling 
+40,Divide 
+41,Extend 
+42,Fix module structure 
+43,Hierarchies 
+44,Maintenance 
+45,Moved code out of 
+46,Polishing code 
+47,Redesign 
+48,Reorganize 
+49,Rewrite 
+50,Stability 
+51,Unnecessary code 
+52,Anti Pattern 
+53,Code cleansing 
+54,reordering 
+55,Composition 
+56,Deprecated code 
+57,Duplicate 
+58,Extendibility 
+59,Fix quality 
+60,Improve 
+61,Make easier 
+62,Multi module 
+63,Polymorphism 
+64,Redundant 
+65,Replace 
+66,Robustness 
+67,Structural changes 
+68,Unused 
+69,Antipattern 
+70,Code cleanup 
+71,Code revision 
+72,Cosmetic changes 
+73,Design 
+74,Easy 
+75,Extract 
+76,Fix technical debt 
+77,Inheritance 
+78,Messaging 
+79,Nicer code 
+80,Poor coding 
+81,Refactor 
+82,Restructure 
+83,Scalability 
+84,Structure 
+85,Useless 
+86,Architecture 
+87,Code cosmetics 
+88,Code smells 
+89,Coupling 
+90,Design Pattern 
+91,Effectiveness 
+92,Fix a design flaw 
+93,Flexibility 
+94,Inline 
+95,Metrics 
+96,No needed 
+97,Pull down 
+98,Reformat 
+99,Reusability 
+100,Separate 
+101,Understandability 
+102,Visibility
